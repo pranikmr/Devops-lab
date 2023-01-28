@@ -1,6 +1,3 @@
 this is a common feature file
-<<<<<<< HEAD
 this is the work done by dev1 team
-=======
 this work is added by dev2 team
->>>>>>> dev2
